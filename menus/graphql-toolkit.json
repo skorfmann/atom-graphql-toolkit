@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Sort GraphQL Schema",
+        "command": "graphql-toolkit:sort"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "GraphQL Tools",
+          "submenu": [
+            {
+              "label": "Sort Schema",
+              "command": "graphql-toolkit:sort"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

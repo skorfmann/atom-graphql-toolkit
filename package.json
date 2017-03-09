@@ -1,0 +1,19 @@
+{
+  "name": "graphql-toolkit",
+  "main": "./lib/graphql-toolkit",
+  "version": "0.0.0",
+  "description": "Useful tools for working with GraphQL schemas and queries",
+  "keywords": ["graphql", "tools", "graphql schema"],
+  "activationCommands": {
+    "atom-workspace": "graphql-toolkit:sort"
+  },
+  "repository": "https://github.com/atom/graphql-toolkit",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "graphql": "^0.9.1",
+    "graphql-tools": "^0.10.1"
+  }
+}
