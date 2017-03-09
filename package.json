@@ -1,9 +1,13 @@
 {
   "name": "graphql-toolkit",
   "main": "./lib/graphql-toolkit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Useful tools for working with GraphQL schemas and queries",
-  "keywords": ["graphql", "tools", "graphql schema"],
+  "keywords": [
+    "graphql",
+    "tools",
+    "graphql schema"
+  ],
   "activationCommands": {
     "atom-workspace": "graphql-toolkit:sort"
   },
