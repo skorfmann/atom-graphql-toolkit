@@ -2,4 +2,4 @@
 
 For now just sorting a given GraphQL IDL schema in alphabetical order.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![GraphQL Toolkit Sorting](https://cloud.githubusercontent.com/assets/136789/23771463/5b8f29a0-0517-11e7-869c-6d40693a6145.gif)
