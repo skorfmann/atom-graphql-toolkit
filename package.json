@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "graphql-toolkit:sort"
   },
-  "repository": "https://github.com/atom/graphql-toolkit",
+  "repository": "https://github.com/skorfmann/atom-graphql-toolkit",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
